@@ -1,8 +1,7 @@
 ## Personal portfolio
 
 ## Play a game here
-<!DOCTYPE html>
-<html>
+
 <head>
   <title></title>
   <style>
@@ -168,7 +167,6 @@ document.addEventListener('keydown', function(e) {
 requestAnimationFrame(loop);
 </script>
 </body>
-</html>
 
 ## Contact
 If you want to contact me you can reach me at LinkedIn.
