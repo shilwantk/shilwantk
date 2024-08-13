@@ -1,16 +1,32 @@
 <h1 align="center">Hi 👋, I'm Kirti Shilwant</h1>
 <h3 align="center">A passionate mobile application developer from India</h3>
+<p align="center">I am an electronics engineer who stumbled across iOS app development as a fun side project and decided to make it my profession 5 years ago. Everything I have learned until now is self-taught through books, online courses, blogs, and of course Reddit.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shilwantk&label=Profile%20views&color=0e75b6&style=flat" alt="shilwantk" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 💼 I’m currently working as Sr. Mobile Engineer at <a href="https://community.musictribe.com/">**Music Tribe**</a>
 
-- 💬 Ask me about **iOS app development and system design**
+- 🌱 I’m learning **hybrid mobile application development** using Flutter and working on my **data structures and algorithms skills**.
 
-- 📫 How to reach me **shilwantkirti@gmail.com**
+- 💬 Ask me about **building immersive mobile applications for iOS and MacOS.**
+
+- 📖 Reading: **Algorithms to Live By : The Computer Science of Human Decisions** by Tom Griffiths Brian Christian
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+- 📧 Email: <a href="mailto:shilwantkirti@gmail.com"> Kirti Shilwant</a>
+- 👩🏻‍💻 LinkedIn: <a href="https://www.linkedin.com/in/kirti-shilwant/">Here</a>
+- 🗂️ Portfolio: <a href="https://kirti-shilwant.notion.site/Kirti-Shilwant-4f94d63c34ee487ea255faee023ee925?pvs=4">Here</a>
+- 📄 Resume: <a href="https://kirti-shilwant.notion.site/Kirti-Shilwant-4f94d63c34ee487ea255faee023ee925?pvs=4">Here</a>
+
+</p>
+
+<h3 align="left">Tech Stack</h3>
+<p align="left">
+
+- 
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
