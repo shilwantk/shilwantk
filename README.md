@@ -1,9 +1,4 @@
-## Personal portfolio
-
-## Contact
-If you want to contact me you can reach me at LinkedIn.
-
-<h1 align="center">Hi 👋, I'm Kirti S</h1>
+<h1 align="center">Hi 👋, I'm Kirti Shilwant</h1>
 <h3 align="center">A passionate mobile application developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shilwantk&label=Profile%20views&color=0e75b6&style=flat" alt="shilwantk" /> </p>
