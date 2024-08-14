@@ -44,8 +44,14 @@
    <li>CSS</li>
 </ul>
 
+### TIL snippets
+<!-- tilentries starts -->
+
+<!-- tilentries ends -->
+
 <!-- TODO: Add an apps I am building/working on section -->
 <!-- TODO: Add a latest blog section here with three items-->
 
+### Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shilwantk&show_icons=true&locale=en&layout=compact" alt="shilwantk" /></p>
 
