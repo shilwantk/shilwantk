@@ -47,6 +47,7 @@
 ### TIL snippets
 <!-- tilentries starts -->
 
+* [Named Slices](https://github.com/shilwantk/til/tree/main/)
 <!-- tilentries ends -->
 
 <!-- TODO: Add an apps I am building/working on section -->
