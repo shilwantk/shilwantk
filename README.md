@@ -44,12 +44,6 @@
    <li>CSS</li>
 </ul>
 
-### TIL snippets
-<!-- tilentries starts -->
-
-* [Named Slices](https://github.com/shilwantk/til/tree/main/)
-<!-- tilentries ends -->
-
 <!-- TODO: Add an apps I am building/working on section -->
 <!-- TODO: Add a latest blog section here with three items-->
 
