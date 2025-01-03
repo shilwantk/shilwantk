@@ -24,7 +24,7 @@
   <ul>
   <li>📧  <a href="mailto:shilwantkirti@gmail.com">Email</a> </li>
   <li>👩🏻‍💻  <a href="https://www.linkedin.com/in/kirti-shilwant/">LinkedIn</a> </li>
-  <li>🗂️  <a href="https://kirti-shilwant.notion.site/Kirti-Shilwant-Portfolio-9a6901b9138e4970819aef68d5e3c94d?pvs=4">Portfolio</a> </li>
+  <li>🗂️  <a href="https://sites.google.com/view/kirtishilwant/home">Portfolio</a> </li>
   <li>📄  <a href="https://drive.google.com/file/d/1lG_tMZrxky6H2CBhpC9TLTrGiH6quqUD/view?usp=drive_link">Resume</a> </li>
   <li>🖥️  <a href="https://medium.com/@shilwantkirti">Medium Blog</a> </li>
   <li>💻  <a href="https://www.notion.so/Kirti-s-TILs-10d8b409c94980a492eaf313d8a2765a?pvs=4">Find my TILs here</a> </li>
